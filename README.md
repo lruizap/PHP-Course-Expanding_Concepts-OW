@@ -1,3 +1,9 @@
+# Toda la documentación del curso esta subida a mi página de NOTION
+
+[NOTION](https://lruizap.notion.site/Open-Webinars-cbc5d465abf04dbfb7321cd14b44c492)
+
+---
+
 # Curso de PHP: Ampliando conceptos
 
 Este curso de PHP está centrado en ampliar los conceptos aprendidos en el curso de PHP para principiantes, profundizando en los mismos para que seas capaz de crear sitios web dinámicos más profesionales.
